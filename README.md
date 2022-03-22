@@ -7,7 +7,7 @@
 
 ## Description
 
-Parametric-Lamp is an interactive web-based application, which enables the user to select his disered size and shape of a wooden lamp. 
+Parametric-Lamp is an interactive web-based application, which enables the user to select his desired size and shape of a wooden lamp. 
 The user can change the values of the following sliders:
 
 - the total width
